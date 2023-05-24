@@ -7,6 +7,7 @@ import Protected from "./protected";
 import Auth from "../Pages/auth";
 import Students from "../Pages/students";
 import EditPage from "../Pages/edit";
+import Documents from "../Pages/documents";
 
 export default function Routing() {
   return (
@@ -20,6 +21,7 @@ export default function Routing() {
           <Route element={<Home />} path="/lead"></Route>
           <Route element={<Students />} path="/students"></Route>
           <Route element={<EditPage />} path="/edit/:id"></Route>
+          <Route element={<Documents />} path="/documents"></Route>
         </Route>
       </Routes>
     </div>
