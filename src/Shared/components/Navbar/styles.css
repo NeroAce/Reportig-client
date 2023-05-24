@@ -1,0 +1,20 @@
+.navbar-main{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    height: 100px;
+    background-color: black;
+    color: white;
+    padding-left: 50px;
+    padding-right: 80px;
+}
+
+.logout-div{
+    
+    background-color: white;
+    height: 30px;
+    color: white;
+    border-radius: 50px;
+    width: 50px;
+    height: 50px;
+}

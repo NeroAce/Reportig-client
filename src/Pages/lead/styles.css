@@ -1,0 +1,16 @@
+.modal-div{
+   margin-bottom: 50px;
+    padding: 10px;
+}
+
+.top-search{
+    margin-bottom: 50px;
+}
+
+.top-search>label{
+ font-weight: 700;
+ font-size: 12px;
+ padding: 10px;
+
+}
+

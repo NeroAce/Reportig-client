@@ -1,0 +1,8 @@
+.multiSelect{
+    max-width: 500px;
+}
+.optionContainer li:hover,
+.optionContainer .highlight {
+  background: #1C4885;
+  color: #fff;
+}

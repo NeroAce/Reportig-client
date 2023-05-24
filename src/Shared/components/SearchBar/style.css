@@ -1,0 +1,7 @@
+.autocomplete-div{
+    position: absolute;
+    background-color: white;
+    margin-left: 5px;
+    min-width: 200px;
+    padding: 10px;
+}

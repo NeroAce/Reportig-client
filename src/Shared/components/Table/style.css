@@ -1,0 +1,50 @@
+.thead{
+    background-color: #1C4885;
+    color: white;
+    border-color: #1C4885;
+}
+
+.loading-div{
+    text-align: center;
+}
+.loading-img{
+    display: block;
+    margin: 0 auto;
+    width: 100px;
+    margin-top: 150px;
+}
+
+.highlightD{
+    color: red;
+}
+
+.pager-div{
+    display: flex;
+    align-items: center;
+    justify-content: right;
+    max-width: 85%;
+    padding-top: 20px;
+}
+.pager-div-desc{
+   
+    padding-right: 40px;
+}
+.ppr-select{
+   margin-right: 20px;
+}
+
+.ppr-page{
+    margin-right: 20px;
+}
+.ppr-page-button{
+    background-color: transparent;
+    
+    border-color: transparent;
+    font-weight: 700;
+    font-size: 24px;
+    color: grey;
+}
+.ppr-page-button:active{
+    background-color: rgba(128, 128, 128, 0.337);
+    border: 5px;
+}

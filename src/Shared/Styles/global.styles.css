@@ -1,0 +1,21 @@
+body{
+    margin: 0;
+}
+.dpflex{
+    display: flex;
+    align-items: center;
+}
+.dpflex-db{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.mrg-r-20{
+    margin-right:20px ;
+}
+.bx-sdow{
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+.ml-20{
+    margin-left:20px ;
+}
